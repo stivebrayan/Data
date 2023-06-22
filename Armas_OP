@@ -1,0 +1,104 @@
+{
+    "name": "20230407-itens_v1",
+    "title": "Generated Module #1680912936551",
+    "description": "A module containing the exported Generated Module #1680912936551 compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Gamemaster",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "ITEM - Acessório - Utensílios",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-acessorio-utensilios-1680912936551.db",
+            "name": "ordem-paranormal-item-acessorio-utensilios-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Acessórios - Kit de perícias",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-acessorios-kit-de-pericias-1680912936551.db",
+            "name": "ordem-paranormal-item-acessorios-kit-de-pericias-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Acessórios - Vestimentas",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-acessorios-vestimentas-1680912936551.db",
+            "name": "ordem-paranormal-item-acessorios-vestimentas-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Armas - Luta",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-armas-luta-1680912936551.db",
+            "name": "ordem-paranormal-item-armas-luta-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Armas - Munição",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-armas-municao-1680912936551.db",
+            "name": "ordem-paranormal-item-armas-municao-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Armas - Pontaria",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-armas-pontaria-1680912936551.db",
+            "name": "ordem-paranormal-item-armas-pontaria-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Explosivos",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-explosivos-1680912936551.db",
+            "name": "ordem-paranormal-item-explosivos-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Itens operacionais",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-itens-operacionais-1680912936551.db",
+            "name": "ordem-paranormal-item-itens-operacionais-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Proteções",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-protecoes-1680912936551.db",
+            "name": "ordem-paranormal-item-protecoes-1680912936551",
+            "system": "custom-system-builder"
+        },
+        {
+            "type": "Item",
+            "label": "ITEM - Itens paranormais",
+            "module": "20230407-itens_v1",
+            "path": "packs/ordem-paranormal-item-itens-paranormais-1680912936551.db",
+            "name": "ordem-paranormal-item-itens-paranormais-1680912936551",
+            "system": "custom-system-builder"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
