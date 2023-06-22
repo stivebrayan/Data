@@ -99,6 +99,6 @@
             "system": "custom-system-builder"
         }
     ],
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/stivebrayan/Data",
+    "download": "https://github.com/stivebrayan/Data"
 }
